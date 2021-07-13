@@ -1,6 +1,7 @@
-/* fonts */
+/* fonts or utilitis */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
-/* utilitis */
+
+/* header navigation */
 header{ 
     Height: 94px;
     background-color: #562EFF;
